@@ -4,6 +4,7 @@ author: Adrian Correndo
 format: html
 ---
 
+# Modif prueba 18 de sep 2022
 # Creating the sticker
 
 This is a short tutorial to easily create your own stickers!
